@@ -44,7 +44,7 @@ tensorboard/
 *.avi
 *.mov
 *.webm
-
+*.virtual_documents
 # 系統檔案
 .DS_Store
 Thumbs.db
