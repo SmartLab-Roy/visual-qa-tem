@@ -1,0 +1,7 @@
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+transformers==4.37.2
+optimum
+onnxruntime-gpu==1.16.3
+pix2text

@@ -1,0 +1,6 @@
+path: /home/ne6131039/Desktop/TEM_DATAS/TEM_PROJECT_CODES/little_tu/tem_crop_dataset/dataset
+train: images/train
+val: images/val
+
+names:
+  0: TEM_image

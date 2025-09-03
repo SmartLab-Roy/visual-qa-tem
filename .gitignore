@@ -1,0 +1,53 @@
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 虛擬環境
+venv/
+env/
+*.egg-info/
+
+# 模型檔案
+*.pt
+*.pth
+*.h5
+*.onnx
+*.tflite
+
+# YOLO 訓練輸出
+runs/
+weights/
+labels/
+results/
+inference/output/
+
+# ResNet 訓練暫存
+checkpoints/
+logs/
+tensorboard/
+
+# 資料集與暫存檔
+*.zip
+*.tar.gz
+*.csv
+*.json
+*.xml
+*.jpg
+*.png
+*.jpeg
+*.bmp
+*.gif
+*.mp4
+*.avi
+*.mov
+*.webm
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# VS Code 設定
+.vscode/
