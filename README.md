@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # visual-qa-tem
 Automated pipeline for constructing visual question-answering datasets from microscopy literature to enable LLM interpretation of scientific images.
 
@@ -29,3 +30,6 @@ pip install requirements
 ⚠️ **important**: This project requires LLaVA model integration. Please complete LLaVA installation before proceeding.
 
 Please see on https://github.com/haotian-liu/LLaVA.git
+=======
+# visual-qa-tem
+>>>>>>> 7a9d9435cd68bd9ee3c05184e7f3feed4ca8fe2e
