@@ -11,7 +11,7 @@ from PIL import Image
 import cv2
 
 # === Project configuration (custom paths, weights, settings) ===
-from TEM_project_function import config
+from project_function import config
 
 # vision_crop.py (module-level cache)
 _yolo_crop_model = YOLO(config.CROP_IMAGES) # Load YOLO model for figure-region detection (path is defined in config.CROP_IMAGES)

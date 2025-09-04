@@ -19,8 +19,6 @@ TEM_IMAGE_CROP = os.path.join(current_dir, "vision_model", "TEM_image_crop.pt") 
 BINARY_CLASSIFIER = os.path.join(current_dir, "vision_model", "binary_classifier.pth")    # None vs NotNone classifier
 FIVE_CLASS_CLASSIFIER = os.path.join(current_dir, "vision_model", "five_class_classifier.pth")  # 5-way TEM classifier
 
-# === Tesseract OCR Path (leave blank to use system default) ===
-TESSERACT = ''  # e.g., 'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
 # === CSV Output Path ===
 CSV_PATH = os.path.join(current_dir, "../tem_images_description.csv")  # Metadata logging
