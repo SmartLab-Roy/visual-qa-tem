@@ -21,10 +21,10 @@ pip install requirements
 | document | explanation |
 | -------- | -------- |
 |[📋 Guide](https://github.com/SmartLab-Roy/visual-qa-tem/blob/7e270f0901d44a7d68925c9c831b04addeaa5e07/docs/Guide.md)|Detailed instructions        |
-| [🕷️Web Crawling](https://github.com/SmartLab-Roy/visual-qa-tem/blob/7e270f0901d44a7d68925c9c831b04addeaa5e07/docs/Web%20Crawling.md)    | Data collection functionality     |
-| [📄PDF Processing](https://github.com/SmartLab-Roy/visual-qa-tem/blob/7e270f0901d44a7d68925c9c831b04addeaa5e07/docs/PDF%20Processing.md)    | Image & captions extraction from PDFs     |
+| [🕷️Web Crawling](https://github.com/SmartLab-Roy/visual-qa-tem/blob/main/docs/Web%20Crawling.md)    | Data collection functionality     |
+| [📄Data Extraction](https://github.com/SmartLab-Roy/visual-qa-tem/edit/main/docs/PDF%20Processing.md)    | Image & captions extraction from PDFs     |
 | [🔄Data Preprocess](https://github.com/SmartLab-Roy/visual-qa-tem/blob/main/docs/Data%20Preprocessing.md)    | Preprocessing|
-| [📊Model Evaluation](https://github.com/SmartLab-Roy/visual-qa-tem/blob/7e270f0901d44a7d68925c9c831b04addeaa5e07/docs/Model%20Evaluation.md)    | Evaluation metrics and analysis     |
+| [📊Model Evaluation](https://github.com/SmartLab-Roy/visual-qa-tem/blob/main/docs/Model%20Evaluation.md)   | Evaluation metrics and analysis     |
 
 ⚠️ **important**: This project requires LLaVA model integration. Please complete LLaVA installation before proceeding.
 
